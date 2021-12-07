@@ -23,7 +23,7 @@ Usuários devem enxergar a interação com os hovers.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://cardsolution-43b0lwiww-leoarjo.vercel.app/#](https://cardsolution-43b0lwiww-leoarjo.vercel.app/#)
 
 ## My process
 
